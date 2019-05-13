@@ -37,12 +37,14 @@ public class MyQueueBySLL {
     public int poll(){
         if (head == null) throw new IllegalArgumentException("");
         ListNode temp = head;
-        head = head.next;
-        temp.next = null;
+        if (head == tail){
+            head = null;
+            tail = null;
+        }else{
+            head = head.next;
+            temp.next = null;
+        }
         size--;
-
-        //list is empty, set tail to null
-        if (getSize() == 0) tail = null;
         return temp.val;
     }
 
