@@ -7,6 +7,8 @@ DesignDataStruture: implement different data structures
 - Queue using Single LinkedList
 - Queue using Doubly LinkedList
 - Stack using Single LinkedList
+- Queue using Array
+- Stack using Array
 
 Sort: implement different sorting methods
 - Bubble Sort
