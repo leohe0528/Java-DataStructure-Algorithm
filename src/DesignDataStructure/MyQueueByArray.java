@@ -61,8 +61,5 @@ public class MyQueueByArray {
         return tail;
     }
 
-    public static void main(String[] args){
 
-
-    }
 }
