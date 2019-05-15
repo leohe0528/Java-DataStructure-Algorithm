@@ -17,3 +17,8 @@ Sort: implement different sorting methods
 - QuicK Sort
 - Selection Sort
 - Utility functions
+
+Thread: demo of extending Thread and implementing Runnable
+- MyThreadExtend
+- MyThreadRunnable
+- MyThread: combine MyThreadExtend and MyThreadRunnable
