@@ -22,3 +22,8 @@ Thread: demo of extending Thread and implementing Runnable
 - MyThreadExtend
 - MyThreadRunnable
 - MyThread: combine MyThreadExtend and MyThreadRunnable
+
+Tree: three ways of traversal using recursion and iteration
+- Preorder
+- Inorder
+- Postorder
