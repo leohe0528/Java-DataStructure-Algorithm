@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f596b1-e45c-4411-95b2-6c5ad52f5c4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/ReverseWordsInString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Leetcode/ComparableAndComparator/demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Leetcode/ComparableAndComparator/demo.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,33 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DesignDataStructure/MyQueueByArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Thread/MyThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Thread/MyThreadExtend.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Thread/MyThreadRunnable.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,25 +72,46 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ComparableAndComparator/demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="58" column="50" selection-start-line="58" selection-start-column="50" selection-end-line="58" selection-end-column="50" />
+            <state relative-caret-position="645">
+              <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ComparableAndComparator/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#507#508#0" expanded="true" />
-                <element signature="e#544#545#0" expanded="true" />
-                <element signature="e#715#716#0" expanded="true" />
-                <element signature="e#753#754#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ArrayAndString/ReverseWordsInString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="666" selection-start-line="666" selection-end-line="666" />
+              <folding>
+                <element signature="e#24885#24886#0" expanded="true" />
+                <element signature="e#132657#132658#0" expanded="true" />
+                <element signature="e#132711#132712#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -181,12 +177,15 @@
         <option value="$PROJECT_DIR$/src/BinaryTree/IsBalance.java" />
         <option value="$PROJECT_DIR$/src/BitManipulation/BitManipulation.java" />
         <option value="$PROJECT_DIR$/src/ComparableAndComparator/demo.java" />
+        <option value="$PROJECT_DIR$/src/ComparableAndComparator/test.java" />
+        <option value="$PROJECT_DIR$/src/ComparableAndComparator/Test.java" />
+        <option value="$PROJECT_DIR$/src/ArrayAndString/ReverseWordsInString.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="173" />
-    <option name="y" value="23" />
+    <option name="x" value="28" />
+    <option name="y" value="30" />
     <option name="width" value="1399" />
     <option name="height" value="987" />
   </component>
@@ -195,7 +194,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,12 +210,13 @@
               <item name="Java_DataStructure_Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_DataStructure_Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ComparableAndComparator" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayAndString" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -247,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ComparableComparatorDemo">
+  <component name="RunManager" selected="Application.ReverseWordsInString">
     <configuration name="BitManipulation" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BitManipulation.BitManipulation" />
       <module name="Java_Leetcode" />
@@ -311,6 +310,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseWordsInString" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ArrayAndString.ReverseWordsInString" />
+      <module name="Java_Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ComparableAndComparator.Test" />
+      <module name="Java_Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TreeTraversal" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BinaryTree.Traversal" />
       <module name="Java_Leetcode" />
@@ -328,6 +341,8 @@
       <item itemvalue="Application.IsBalancedTree" />
       <item itemvalue="Application.BitManipulation" />
       <item itemvalue="Application.ComparableComparatorDemo" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.ReverseWordsInString" />
       <item itemvalue="Application.JavaBasics" />
     </list>
   </component>
@@ -353,18 +368,20 @@
       <workItem from="1557784612883" duration="11469000" />
       <workItem from="1557954299224" duration="17482000" />
       <workItem from="1558386827372" duration="2038000" />
-      <workItem from="1558483694129" duration="2966000" />
+      <workItem from="1558483694129" duration="3553000" />
+      <workItem from="1558566886646" duration="686000" />
+      <workItem from="1558922214365" duration="3880000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62246000" />
+    <option name="totallyTimeSpent" value="67399000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="173" y="23" width="1399" height="987" extended-state="0" />
+    <frame x="28" y="30" width="1399" height="987" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29550478" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3043478" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -373,7 +390,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -418,6 +435,18 @@
           <line>56</line>
           <properties />
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ArrayAndString/ReverseWordsInString.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ArrayAndString/ReverseWordsInString.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -542,7 +571,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Thread/MyThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="315">
           <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
         </state>
       </provider>
@@ -591,13 +620,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BitManipulation/BitManipulation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -607,23 +629,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ComparableAndComparator/demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="58" column="50" selection-start-line="58" selection-start-column="50" selection-end-line="58" selection-end-column="50" />
+        <state relative-caret-position="645">
+          <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/javax/swing/tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ComparableAndComparator/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#715#716#0" expanded="true" />
-            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="666" selection-start-line="666" selection-end-line="666" />
+          <folding>
+            <element signature="e#24885#24886#0" expanded="true" />
+            <element signature="e#132657#132658#0" expanded="true" />
+            <element signature="e#132711#132712#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayAndString/ReverseWordsInString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
         </state>
       </provider>
     </entry>
