@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f596b1-e45c-4411-95b2-6c5ad52f5c4c" name="Default Changelist" comment="added ReverseWordIniString">
-      <change afterPath="$PROJECT_DIR$/src/BFS/WallsAndGates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryTree/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/DiffWaysToAddParaen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/ZeroOneMarix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,11 +17,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BFS/WallsAndGates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="36" column="85" selection-start-line="36" selection-start-column="85" selection-end-line="36" selection-end-column="85" />
+            <state relative-caret-position="316">
+              <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BFS/ZeroOneMarix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,7 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Sort/main.java" />
         <option value="$PROJECT_DIR$/src/Test/PassByValue.java" />
         <option value="$PROJECT_DIR$/src/Sort/Main.java" />
         <option value="$PROJECT_DIR$/src/Sort/utils.java" />
@@ -98,11 +107,12 @@
         <option value="$PROJECT_DIR$/src/BinaryTree/Test.java" />
         <option value="$PROJECT_DIR$/src/BinaryTree/Traversal.java" />
         <option value="$PROJECT_DIR$/src/BFS/WallsAndGates.java" />
+        <option value="$PROJECT_DIR$/src/BFS/ZeroOneMarix.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1644" />
+    <option name="x" value="-1647" />
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
@@ -170,7 +180,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WallsAndGates">
+  <component name="RunManager" selected="Application.ZeroOneMarix">
     <configuration name="BitManipulation" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BitManipulation.BitManipulation" />
       <module name="Java_Leetcode" />
@@ -311,6 +321,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZeroOneMarix" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BFS.ZeroOneMarix" />
+      <module name="Java_Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="numTilePossibilities" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="DFS.numTilePossibilities" />
       <module name="Java_Leetcode" />
@@ -320,6 +337,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.DoublyLinkedList" />
+      <item itemvalue="Application.ZeroOneMarix" />
       <item itemvalue="Application.MyStackBySLL" />
       <item itemvalue="Application.MyQueueuBySLL" />
       <item itemvalue="Application.MyThread" />
@@ -371,7 +389,7 @@
       <workItem from="1560197718752" duration="252000" />
       <workItem from="1560497081575" duration="1447000" />
       <workItem from="1560644078211" duration="482000" />
-      <workItem from="1560644910782" duration="2366000" />
+      <workItem from="1560644910782" duration="5343000" />
     </task>
     <task id="LOCAL-00001" summary="added ReverseWordIniString">
       <created>1558935293284</created>
@@ -384,10 +402,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95338000" />
+    <option name="totallyTimeSpent" value="98315000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1644" y="23" width="1680" height="1027" extended-state="0" />
+    <frame x="-1647" y="23" width="1680" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23382173" />
@@ -399,15 +417,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.34759358" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34759358" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.29183674" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.29090908" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32960895" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -531,7 +549,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Sort/Sort" />
     <entry file="file://$PROJECT_DIR$/src/MergeSort.java" />
     <entry file="file://$PROJECT_DIR$/src/MergeSort/MergeSort.java" />
     <entry file="file://$PROJECT_DIR$/src/Test/PassByValue.java" />
@@ -847,8 +864,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BFS/WallsAndGates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="36" column="85" selection-start-line="36" selection-start-column="85" selection-end-line="36" selection-end-column="85" />
+        <state relative-caret-position="316">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BFS/ZeroOneMarix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
