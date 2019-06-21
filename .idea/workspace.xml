@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f596b1-e45c-4411-95b2-6c5ad52f5c4c" name="Default Changelist" comment="added ReverseWordIniString">
-      <change afterPath="$PROJECT_DIR$/src/BFS/PacificAtlanticWaterFlow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BFS/WordLadder.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,14 +52,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BFS/PacificAtlanticWaterFlow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="1125">
+              <caret line="75" column="5" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BFS/WordLadder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="41" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -81,7 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Sort/utils.java" />
         <option value="$PROJECT_DIR$/src/Sort/SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/Sort/InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/Sort/MergeSort.java" />
@@ -132,11 +139,12 @@
         <option value="$PROJECT_DIR$/src/BFS/ZeroOneMarix.java" />
         <option value="$PROJECT_DIR$/src/BFS/ShortestDistFromAllBuildings.java" />
         <option value="$PROJECT_DIR$/src/BFS/PacificAtlanticWaterFlow.java" />
+        <option value="$PROJECT_DIR$/src/BFS/WordLadder.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1892" />
+    <option name="x" value="-1383" />
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
@@ -421,7 +429,7 @@
       <workItem from="1560197718752" duration="252000" />
       <workItem from="1560497081575" duration="1447000" />
       <workItem from="1560644078211" duration="482000" />
-      <workItem from="1560644910782" duration="14117000" />
+      <workItem from="1560644910782" duration="14929000" />
     </task>
     <task id="LOCAL-00001" summary="added ReverseWordIniString">
       <created>1558935293284</created>
@@ -434,10 +442,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107089000" />
+    <option name="totallyTimeSpent" value="107901000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1892" y="23" width="1680" height="1027" extended-state="0" />
+    <frame x="-1383" y="23" width="1680" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23382173" />
@@ -587,7 +595,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Test/PassByValue.java" />
     <entry file="file://$PROJECT_DIR$/src/Sort/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/Sort/MergeSort2.java" />
     <entry file="file://$PROJECT_DIR$/src/Sort/BubbleSort.java">
@@ -930,11 +937,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BFS/PacificAtlanticWaterFlow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="1125">
+          <caret line="75" column="5" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BFS/WordLadder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="41" selection-end-column="5" />
         </state>
       </provider>
     </entry>
