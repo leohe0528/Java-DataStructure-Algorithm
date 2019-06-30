@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f596b1-e45c-4411-95b2-6c5ad52f5c4c" name="Default Changelist" comment="added ReverseWordIniString">
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/ArrayReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/SearchInABigArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Leetcode/BFS/ShortestDistFromAllBuildings$Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Leetcode/BFS/ShortestDistFromAllBuildings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Leetcode/BFS/WallsAndGates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Leetcode/BFS/ZeroOneMarix$Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Leetcode/BFS/ZeroOneMarix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Leetcode/DFS/GarbageClean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Leetcode/DFS/IsMatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Leetcode/DFS/LIS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Leetcode/DFS/LongestPalindromeSubseq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Leetcode/DFS/MaximumSubarray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Leetcode/DFS/MinPathSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Leetcode/DFS/numTilePossibilities.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,68 +30,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BFS/WallsAndGates.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BFS/ZeroOneMarix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="34" column="36" lean-forward="true" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BFS/ShortestDistFromAllBuildings.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="54" column="28" lean-forward="true" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BFS/PacificAtlanticWaterFlow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
-              <caret line="75" column="5" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BFS/WordLadder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BFS/CheapestFlightWithKStops.java">
+        <entry file="file://$PROJECT_DIR$/src/BinarySearch/SearchInABigArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+            <state relative-caret-position="255">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BinarySearch/ArrayReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#265#266#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,9 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Sort/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/src/Sort/InsertionSort.java" />
-        <option value="$PROJECT_DIR$/src/Sort/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/Sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/Sort/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/Calculator/basicCalculator.java" />
@@ -149,14 +119,17 @@
         <option value="$PROJECT_DIR$/src/BFS/ShortestDistFromAllBuildings.java" />
         <option value="$PROJECT_DIR$/src/BFS/PacificAtlanticWaterFlow.java" />
         <option value="$PROJECT_DIR$/src/BFS/WordLadder.java" />
+        <option value="$PROJECT_DIR$/src/BFS/CheapestFlightWithKStops.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearch/ArrayReader.java" />
+        <option value="$PROJECT_DIR$/src/BinarySearch/SearchInABigArray.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1383" />
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="1027" />
+    <option name="x" value="-1479" />
+    <option name="y" value="157" />
+    <option name="width" value="1260" />
+    <option name="height" value="771" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -180,13 +153,7 @@
               <item name="Java_DataStructure_Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_DataStructure_Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BFS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_DataStructure_Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_DataStructure_Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="BinarySearch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -438,7 +405,9 @@
       <workItem from="1560197718752" duration="252000" />
       <workItem from="1560497081575" duration="1447000" />
       <workItem from="1560644078211" duration="482000" />
-      <workItem from="1560644910782" duration="15598000" />
+      <workItem from="1560644910782" duration="16254000" />
+      <workItem from="1561222111307" duration="961000" />
+      <workItem from="1561925852424" duration="695000" />
     </task>
     <task id="LOCAL-00001" summary="added ReverseWordIniString">
       <created>1558935293284</created>
@@ -451,13 +420,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108570000" />
+    <option name="totallyTimeSpent" value="110882000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1383" y="23" width="1680" height="1027" extended-state="0" />
+    <frame x="-1479" y="157" width="1260" height="771" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23382173" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2405583" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -474,7 +443,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32941177" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.29090908" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.29013255" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32941177" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -604,21 +573,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Sort/MergeSort2.java" />
-    <entry file="file://$PROJECT_DIR$/src/Sort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Calculator/basicCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sort/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -915,8 +869,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BFS/WallsAndGates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        <state relative-caret-position="630">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -925,8 +879,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BFS/ZeroOneMarix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="34" column="36" lean-forward="true" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+        <state relative-caret-position="495">
+          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -935,8 +889,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BFS/ShortestDistFromAllBuildings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="54" column="28" lean-forward="true" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+        <state relative-caret-position="795">
+          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -945,7 +899,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BFS/PacificAtlanticWaterFlow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
+        <state relative-caret-position="1080">
           <caret line="75" column="5" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -955,15 +909,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BFS/WordLadder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        <state relative-caret-position="300">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BFS/CheapestFlightWithKStops.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        <state relative-caret-position="270">
+          <caret line="21" column="69" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearch/ArrayReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearch/SearchInABigArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
         </state>
       </provider>
     </entry>
