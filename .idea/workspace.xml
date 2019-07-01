@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f596b1-e45c-4411-95b2-6c5ad52f5c4c" name="Default Changelist" comment="added ReverseWordIniString">
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/WoodCut.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryTree/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DFS/LIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFS/LIS.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,11 +35,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BinarySearch/WoodCut.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="285">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DFS/LIS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="56" column="38" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -121,7 +129,6 @@
         <option value="$PROJECT_DIR$/src/JavaBasics/isMatch.java" />
         <option value="$PROJECT_DIR$/src/JavaBasics/IsMatch.java" />
         <option value="$PROJECT_DIR$/src/DFS/IsMatch.java" />
-        <option value="$PROJECT_DIR$/src/DFS/LIS.java" />
         <option value="$PROJECT_DIR$/src/DFS/MinPathSum.java" />
         <option value="$PROJECT_DIR$/src/DFS/GarbageClean.java" />
         <option value="$PROJECT_DIR$/src/DFS/numTilePossibilities.java" />
@@ -140,14 +147,15 @@
         <option value="$PROJECT_DIR$/src/BinarySearch/SearchInABigArray.java" />
         <option value="$PROJECT_DIR$/src/BinarySearch/WoodCount.java" />
         <option value="$PROJECT_DIR$/src/BinarySearch/WoodCut.java" />
+        <option value="$PROJECT_DIR$/src/DFS/LIS.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1894" />
-    <option name="y" value="114" />
-    <option name="width" value="1260" />
-    <option name="height" value="771" />
+    <option name="x" value="145" />
+    <option name="y" value="73" />
+    <option name="width" value="1325" />
+    <option name="height" value="849" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -171,20 +179,7 @@
               <item name="Java_DataStructure_Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_DataStructure_Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BinarySearch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_DataStructure_Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_DataStructure_Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryTree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_DataStructure_Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_DataStructure_Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryTree" type="462c0819:PsiDirectoryNode" />
-              <item name="Traversal.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="DFS" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -219,7 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WoodCut">
+  <component name="RunManager" selected="Application.MaximumSubarray">
     <configuration name="BitManipulation" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BitManipulation.BitManipulation" />
       <module name="Java_Leetcode" />
@@ -284,7 +279,7 @@
       </method>
     </configuration>
     <configuration name="MaximumSubarray" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="DFS.MaximumSubarray" />
+      <option name="MAIN_CLASS_NAME" value="DFS.LIS" />
       <module name="Java_Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -446,7 +441,7 @@
       <workItem from="1560644078211" duration="482000" />
       <workItem from="1560644910782" duration="16254000" />
       <workItem from="1561222111307" duration="961000" />
-      <workItem from="1561925852424" duration="2313000" />
+      <workItem from="1561925852424" duration="3524000" />
     </task>
     <task id="LOCAL-00001" summary="added ReverseWordIniString">
       <created>1558935293284</created>
@@ -459,13 +454,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112500000" />
+    <option name="totallyTimeSpent" value="113711000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1894" y="114" width="1260" height="771" extended-state="0" />
+    <frame x="145" y="73" width="1325" height="849" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2405583" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22837101" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -474,8 +469,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32842416" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34759358" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32842416" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.31043592" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -538,7 +533,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DFS/LIS.java</url>
-          <line>26</line>
+          <line>57</line>
           <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
@@ -607,6 +602,12 @@
           <line>25</line>
           <properties />
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinarySearch/WoodCut.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -756,13 +757,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFS/LIS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
@@ -986,8 +980,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BinarySearch/WoodCut.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="285">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFS/LIS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="56" column="38" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
         </state>
       </provider>
     </entry>
