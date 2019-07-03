@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f596b1-e45c-4411-95b2-6c5ad52f5c4c" name="Default Changelist" comment="added ReverseWordIniString">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/ReversedKGroupNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/ReversedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/PlusOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -46,15 +45,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sort/MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="46" selection-start-line="46" selection-end-line="49" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Sort/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -87,17 +77,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LinkedList/ReversedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="24" selection-start-line="24" selection-end-line="31" selection-end-column="5" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList/ReversedKGroupNodes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LinkedList/ReversedKGroupNodes.java">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList/PlusOne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="420">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -127,7 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DesignDataStructure/MyQueueBySLL.java" />
         <option value="$PROJECT_DIR$/src/DesignDataStructure/MyQueueByDLL.java" />
         <option value="$PROJECT_DIR$/src/DesignDataStructure/MyQueueByArray.java" />
         <option value="$PROJECT_DIR$/src/DesignDataStructure/MyStackByArray.java" />
@@ -178,11 +176,12 @@
         <option value="$PROJECT_DIR$/src/Calculator/MyPow.java" />
         <option value="$PROJECT_DIR$/src/LinkedList/ReversedList.java" />
         <option value="$PROJECT_DIR$/src/LinkedList/ReversedKGroupNodes.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList/PlusOne.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1454" />
+    <option name="x" value="1802" />
     <option name="y" value="23" />
     <option name="width" value="1498" />
     <option name="height" value="930" />
@@ -251,7 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReversedKGroupNodes">
+  <component name="RunManager" selected="Application.PlusOne">
     <configuration name="BitManipulation" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BitManipulation.BitManipulation" />
       <module name="Java_Leetcode" />
@@ -377,6 +376,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PlusOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.PlusOne" />
+      <module name="Java_Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReverseWordsInString" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ArrayAndString.ReverseWordsInString" />
       <module name="Java_Leetcode" />
@@ -495,9 +507,11 @@
       <item itemvalue="Application.MyPow" />
       <item itemvalue="Application.ReversedList" />
       <item itemvalue="Application.ReversedKGroupNodes" />
+      <item itemvalue="Application.PlusOne" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PlusOne" />
         <item itemvalue="Application.ReversedKGroupNodes" />
         <item itemvalue="Application.ReversedList" />
         <item itemvalue="Application.MyPow" />
@@ -535,7 +549,7 @@
       <workItem from="1560644078211" duration="482000" />
       <workItem from="1560644910782" duration="16254000" />
       <workItem from="1561222111307" duration="961000" />
-      <workItem from="1561925852424" duration="18059000" />
+      <workItem from="1561925852424" duration="20734000" />
     </task>
     <task id="LOCAL-00001" summary="added ReverseWordIniString">
       <created>1558935293284</created>
@@ -548,10 +562,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128246000" />
+    <option name="totallyTimeSpent" value="130921000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1825" y="26" width="1498" height="930" extended-state="0" />
+    <frame x="1802" y="23" width="1498" height="930" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20123626" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -726,11 +740,16 @@
           <properties />
           <option name="timeStamp" value="42" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/PlusOne.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Thread/Thread.java" />
     <entry file="file://$PROJECT_DIR$/src/Thread/ThreadImplement.java" />
     <entry file="file://$PROJECT_DIR$/src/Thread/MyThread2.java" />
     <entry file="file://$PROJECT_DIR$/src/BinaryTree/Tree.java" />
@@ -1104,17 +1123,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/ReversedList.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/ReversedKGroupNodes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="24" selection-start-line="24" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="401">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/ReversedKGroupNodes.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/ReversedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/PlusOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
