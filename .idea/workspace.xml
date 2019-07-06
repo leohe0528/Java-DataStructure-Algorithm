@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f596b1-e45c-4411-95b2-6c5ad52f5c4c" name="Default Changelist" comment="added ReverseWordIniString">
-      <change afterPath="$PROJECT_DIR$/src/Calculator/CalculatorIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS/KInversePairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Leetcode/Calculator/basicCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Leetcode/Calculator/basicCalculator.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,36 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sort/CountSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sort/QuickSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sort/BucketSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Calculator/MyPow.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -96,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Calculator/CalculatorIII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-71">
-              <caret line="64" column="13" lean-forward="true" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
+            <state relative-caret-position="401">
+              <caret line="74" column="42" lean-forward="true" selection-start-line="74" selection-start-column="42" selection-end-line="74" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -109,10 +78,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sort/utils.java">
+        <entry file="file://$PROJECT_DIR$/src/DesignDataStructure/MyQueueByArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="-34">
+              <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DFS/KInversePairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BinaryTree/BinaryTreeVerticalTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DFS/GarbageClean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -133,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DesignDataStructure/MyStackByArray.java" />
         <option value="$PROJECT_DIR$/src/Thread/Thread.java" />
         <option value="$PROJECT_DIR$/src/JavaBasics/OuterClass.java" />
         <option value="$PROJECT_DIR$/src/Thread/ThreadImplement.java" />
@@ -184,6 +185,7 @@
         <option value="$PROJECT_DIR$/src/LinkedList/PlusOne.java" />
         <option value="$PROJECT_DIR$/src/Calculator/basicCalculator.java" />
         <option value="$PROJECT_DIR$/src/Calculator/CalculatorIII.java" />
+        <option value="$PROJECT_DIR$/src/DFS/KInversePairs.java" />
       </list>
     </option>
   </component>
@@ -215,7 +217,7 @@
               <item name="Java_DataStructure_Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_DataStructure_Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Calculator" type="462c0819:PsiDirectoryNode" />
+              <item name="BinaryTree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_DataStructure_Algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -263,7 +265,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CalculatorIII">
+  <component name="RunManager" selected="Application.KInversePairs">
     <configuration name="BitManipulation" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BitManipulation.BitManipulation" />
       <module name="Java_Leetcode" />
@@ -347,6 +349,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KInversePairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS.KInversePairs" />
+      <module name="Java_Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MaximumSubarray" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="DFS.LIS" />
       <module name="Java_Leetcode" />
@@ -411,19 +426,6 @@
     </configuration>
     <configuration name="ReversedKGroupNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedList.ReversedKGroupNodes" />
-      <module name="Java_Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReversedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.ReversedList" />
       <module name="Java_Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -530,19 +532,19 @@
       <item itemvalue="Application.DiffWaysToAddParaen" />
       <item itemvalue="Application.WallsAndGates" />
       <item itemvalue="Application.JavaBasics" />
-      <item itemvalue="Application.ReversedList" />
       <item itemvalue="Application.ReversedKGroupNodes" />
       <item itemvalue="Application.PlusOne" />
       <item itemvalue="Application.basicCalculator" />
       <item itemvalue="Application.CalculatorIII" />
+      <item itemvalue="Application.KInversePairs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KInversePairs" />
         <item itemvalue="Application.CalculatorIII" />
         <item itemvalue="Application.basicCalculator" />
         <item itemvalue="Application.PlusOne" />
         <item itemvalue="Application.ReversedKGroupNodes" />
-        <item itemvalue="Application.ReversedList" />
       </list>
     </recent_temporary>
   </component>
@@ -577,7 +579,7 @@
       <workItem from="1560644078211" duration="482000" />
       <workItem from="1560644910782" duration="16254000" />
       <workItem from="1561222111307" duration="961000" />
-      <workItem from="1561925852424" duration="26292000" />
+      <workItem from="1561925852424" duration="27499000" />
     </task>
     <task id="LOCAL-00001" summary="added ReverseWordIniString">
       <created>1558935293284</created>
@@ -590,13 +592,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136479000" />
+    <option name="totallyTimeSpent" value="137686000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1979" y="70" width="1498" height="930" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20123626" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20123626" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -606,7 +608,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2661098" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3842482" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3842482" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -615,7 +617,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3221957" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32842416" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32816228" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -787,29 +789,26 @@
           <properties />
           <option name="timeStamp" value="46" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DFS/KInversePairs.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DFS/KInversePairs.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BinaryTree/Tree.java" />
-    <entry file="file://$PROJECT_DIR$/src/DesignDataStructure/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="76" column="34" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DesignDataStructure/MyQueueByDLL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DesignDataStructure/MyQueueByArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -916,16 +915,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFS/GarbageClean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1195,11 +1184,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Calculator/CalculatorIII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-71">
-          <caret line="64" column="13" lean-forward="true" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
+        <state relative-caret-position="401">
+          <caret line="74" column="42" lean-forward="true" selection-start-line="74" selection-start-column="42" selection-end-line="74" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignDataStructure/MyQueueByArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFS/GarbageClean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFS/KInversePairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTree/BinaryTreeVerticalTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
         </state>
       </provider>
     </entry>
