@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f596b1-e45c-4411-95b2-6c5ad52f5c4c" name="Default Changelist" comment="added ReverseWordIniString">
-      <change afterPath="$PROJECT_DIR$/src/BFS/TrapRainWater.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -53,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BFS/TrapRainWater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+            <state relative-caret-position="381">
+              <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#559#560#0" expanded="true" />
@@ -200,7 +199,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="454" />
+    <option name="x" value="205" />
     <option name="y" value="23" />
     <option name="width" value="1325" />
     <option name="height" value="934" />
@@ -274,7 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TrapRainWater">
+  <component name="RunManager" selected="Application.LetterCombination">
     <configuration name="BitManipulation" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BitManipulation.BitManipulation" />
       <module name="Java_Leetcode" />
@@ -330,19 +329,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMedianOfSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayAndString.FindMedianOfSortedArray" />
-      <module name="Java_Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArrayAndString.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="GarbageClean" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="DFS.GarbageClean" />
       <module name="Java_Leetcode" />
@@ -367,6 +353,19 @@
     <configuration name="JavaBasics" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="JavaBasics.OuterClass" />
       <module name="Java_Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetterCombination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BFS.LetterCombination" />
+      <module name="Java_Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -541,19 +540,19 @@
       <item itemvalue="Application.DiffWaysToAddParaen" />
       <item itemvalue="Application.WallsAndGates" />
       <item itemvalue="Application.JavaBasics" />
-      <item itemvalue="Application.FindMedianOfSortedArray" />
       <item itemvalue="Application.MaxSlidingWindow" />
       <item itemvalue="Application.RotateMatrix" />
       <item itemvalue="Application.ContainsDuplicate" />
       <item itemvalue="Application.TrapRainWater" />
+      <item itemvalue="Application.LetterCombination" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LetterCombination" />
         <item itemvalue="Application.TrapRainWater" />
         <item itemvalue="Application.ContainsDuplicate" />
         <item itemvalue="Application.RotateMatrix" />
         <item itemvalue="Application.MaxSlidingWindow" />
-        <item itemvalue="Application.FindMedianOfSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -589,7 +588,7 @@
       <workItem from="1560644910782" duration="16254000" />
       <workItem from="1561222111307" duration="961000" />
       <workItem from="1561925852424" duration="40779000" />
-      <workItem from="1563168706119" duration="1204000" />
+      <workItem from="1563168706119" duration="1952000" />
     </task>
     <task id="LOCAL-00001" summary="added ReverseWordIniString">
       <created>1558935293284</created>
@@ -602,11 +601,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="152170000" />
+    <option name="totallyTimeSpent" value="152918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="454" y="23" width="1325" height="934" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2314887" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -618,14 +616,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293556" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2655218" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.40023753" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40023753" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32941177" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.35535008" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3551069" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32816228" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1317,8 +1315,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BFS/TrapRainWater.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        <state relative-caret-position="381">
+          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#559#560#0" expanded="true" />
