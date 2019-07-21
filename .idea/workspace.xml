@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f596b1-e45c-4411-95b2-6c5ad52f5c4c" name="Default Changelist" comment="added ReverseWordIniString">
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/PalindromePartitioningII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TopologicalSort/AlienDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/ClosestBinarySearchTreeValueII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/ContainsDuplicateIII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Leetcode/DynamicProgramming/PalindromePartitioningII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Leetcode/DynamicProgramming/PalindromePartitioningII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamicProgramming/PalindromePartitioningII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicProgramming/PalindromePartitioningII.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,43 +25,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BFS/TrapRainWater.java">
+        <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/PalindromePartitioningII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BFS/LetterCombination.java">
+        <entry file="file://$PROJECT_DIR$/src/Tree/ContainsDuplicateIII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="42" lean-forward="true" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DFS/ZumaGame.java">
+        <entry file="file://$PROJECT_DIR$/src/Tree/ClosestBinarySearchTreeValueII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="436">
+              <caret line="75" column="13" lean-forward="true" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/PalindromePartitioningII.java">
+        <entry file="file://$PROJECT_DIR$/src/TopologicalSort/AlienDictionary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+            <state relative-caret-position="237">
+              <caret line="100" selection-start-line="100" selection-end-line="100" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -143,9 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ComparableAndComparator/test.java" />
-        <option value="$PROJECT_DIR$/src/ComparableAndComparator/Test.java" />
-        <option value="$PROJECT_DIR$/src/ArrayAndString/ReverseWordsInString.java" />
         <option value="$PROJECT_DIR$/src/ArrayAndString/WildcardMatch.java" />
         <option value="$PROJECT_DIR$/src/JavaBasics/isMatch.java" />
         <option value="$PROJECT_DIR$/src/JavaBasics/IsMatch.java" />
@@ -194,14 +192,17 @@
         <option value="$PROJECT_DIR$/src/BFS/LetterCombination.java" />
         <option value="$PROJECT_DIR$/src/DFS/ZumaGame.java" />
         <option value="$PROJECT_DIR$/src/DynamicProgramming/PalindromePartitioningII.java" />
+        <option value="$PROJECT_DIR$/src/Tree/ContainsDuplicateIII.java" />
+        <option value="$PROJECT_DIR$/src/Tree/ClosestBinarySearchTreeValueII.java" />
+        <option value="$PROJECT_DIR$/src/TopologicalSort/AlienDictionary.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1841" />
-    <option name="y" value="75" />
-    <option name="width" value="1325" />
-    <option name="height" value="934" />
+    <option name="x" value="1730" />
+    <option name="y" value="58" />
+    <option name="width" value="1391" />
+    <option name="height" value="1006" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -226,7 +227,7 @@
               <item name="Java_DataStructure_Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_DataStructure_Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DynamicProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="TopologicalSort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -240,8 +241,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -260,7 +264,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PalindromePartitioningII">
+  <component name="RunManager" selected="Application.AlienDictionary">
+    <configuration name="AlienDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TopologicalSort.AlienDictionary" />
+      <module name="Java_Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TopologicalSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BitManipulation" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BitManipulation.BitManipulation" />
       <module name="Java_Leetcode" />
@@ -275,6 +292,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ClosestBinarySearchTreeValueII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.ClosestBinarySearchTreeValueII" />
+      <module name="Java_Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ComparableComparatorDemo" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ComparableAndComparator.demo" />
       <module name="Java_Leetcode" />
@@ -282,12 +312,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BitManipulation.ContainsDuplicate" />
+    <configuration name="ContainsDuplicateIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.ContainsDuplicateIII" />
       <module name="Java_Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BitManipulation.*" />
+          <option name="PATTERN" value="Tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,19 +370,6 @@
     <configuration name="JavaBasics" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="JavaBasics.OuterClass" />
       <module name="Java_Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LetterCombination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BFS.LetterCombination" />
-      <module name="Java_Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BFS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -429,19 +446,6 @@
     <configuration name="Test" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ComparableAndComparator.Test" />
       <module name="Java_Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TrapRainWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BFS.TrapRainWater" />
-      <module name="Java_Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BFS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -527,19 +531,19 @@
       <item itemvalue="Application.DiffWaysToAddParaen" />
       <item itemvalue="Application.WallsAndGates" />
       <item itemvalue="Application.JavaBasics" />
-      <item itemvalue="Application.ContainsDuplicate" />
-      <item itemvalue="Application.TrapRainWater" />
-      <item itemvalue="Application.LetterCombination" />
       <item itemvalue="Application.ZumaGame" />
       <item itemvalue="Application.PalindromePartitioningII" />
+      <item itemvalue="Application.ContainsDuplicateIII" />
+      <item itemvalue="Application.ClosestBinarySearchTreeValueII" />
+      <item itemvalue="Application.AlienDictionary" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AlienDictionary" />
+        <item itemvalue="Application.ClosestBinarySearchTreeValueII" />
+        <item itemvalue="Application.ContainsDuplicateIII" />
         <item itemvalue="Application.PalindromePartitioningII" />
         <item itemvalue="Application.ZumaGame" />
-        <item itemvalue="Application.LetterCombination" />
-        <item itemvalue="Application.TrapRainWater" />
-        <item itemvalue="Application.ContainsDuplicate" />
       </list>
     </recent_temporary>
   </component>
@@ -576,7 +580,8 @@
       <workItem from="1561222111307" duration="961000" />
       <workItem from="1561925852424" duration="40779000" />
       <workItem from="1563168706119" duration="1952000" />
-      <workItem from="1563205682503" duration="3086000" />
+      <workItem from="1563205682503" duration="4056000" />
+      <workItem from="1563642456776" duration="3659000" />
     </task>
     <task id="LOCAL-00001" summary="added ReverseWordIniString">
       <created>1558935293284</created>
@@ -589,13 +594,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156004000" />
+    <option name="totallyTimeSpent" value="160633000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1841" y="75" width="1325" height="934" extended-state="0" />
-    <editor active="true" />
+    <frame x="1730" y="58" width="1391" height="1006" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23460639" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21497406" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -603,18 +607,18 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3293556" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32932165" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2655218" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.40023753" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.36105034" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32941177" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3551069" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2921212" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32816228" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32713348" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -891,9 +895,27 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DynamicProgramming/PalindromePartitioningII.java</url>
-          <line>23</line>
+          <line>22</line>
           <properties />
           <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tree/ContainsDuplicateIII.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tree/ClosestBinarySearchTreeValueII.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TopologicalSort/AlienDictionary.java</url>
+          <line>111</line>
+          <properties />
+          <option name="timeStamp" value="81" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -915,33 +937,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaBasics/OuterClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-          <folding>
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/MyThreadExtend.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Thread/MyThreadRunnable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1253,6 +1248,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/BFS/TrapRainWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BFS/LetterCombination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFS/ZumaGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sort/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1301,37 +1323,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BFS/TrapRainWater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BFS/LetterCombination.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="42" lean-forward="true" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFS/ZumaGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="65" column="13" lean-forward="true" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/PalindromePartitioningII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+        <state relative-caret-position="120">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/ContainsDuplicateIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tree/ClosestBinarySearchTreeValueII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="75" column="13" lean-forward="true" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TopologicalSort/AlienDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

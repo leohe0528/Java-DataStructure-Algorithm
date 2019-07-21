@@ -7,7 +7,6 @@ public class PalindromePartitioningII {
         boolean[][] isPal = new boolean[len][len];
 
         for (int i = len - 1; i >= 0; i--){
-            dp[i] = len - i;
             for (int j = i; j < len; j++){
                 if (s.charAt(i) == s.charAt(j) &&
                         (i == j || i + 1 == j ||
