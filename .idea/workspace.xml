@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f596b1-e45c-4411-95b2-6c5ad52f5c4c" name="Default Changelist" comment="added ReverseWordIniString">
-      <change afterPath="$PROJECT_DIR$/src/TopologicalSort/AlienDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/ClosestBinarySearchTreeValueII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/ContainsDuplicateIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/StringCompression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Leetcode/DynamicProgramming/PalindromePartitioningII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Leetcode/DynamicProgramming/PalindromePartitioningII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DynamicProgramming/PalindromePartitioningII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicProgramming/PalindromePartitioningII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Leetcode/TopologicalSort/AlienDictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Leetcode/TopologicalSort/AlienDictionary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TopologicalSort/AlienDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TopologicalSort/AlienDictionary.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TopologicalSort/AlienDictionary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="100" selection-start-line="100" selection-end-line="100" />
+            <state relative-caret-position="490">
+              <caret line="109" column="30" lean-forward="true" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,19 +62,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sort/InsertionSort.java">
+        <entry file="file://$PROJECT_DIR$/src/Sort/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="211">
+              <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sort/utils.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ArrayAndString/StringCompression.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="300">
+              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -144,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ArrayAndString/WildcardMatch.java" />
         <option value="$PROJECT_DIR$/src/JavaBasics/isMatch.java" />
         <option value="$PROJECT_DIR$/src/JavaBasics/IsMatch.java" />
         <option value="$PROJECT_DIR$/src/DFS/IsMatch.java" />
@@ -195,12 +192,13 @@
         <option value="$PROJECT_DIR$/src/Tree/ContainsDuplicateIII.java" />
         <option value="$PROJECT_DIR$/src/Tree/ClosestBinarySearchTreeValueII.java" />
         <option value="$PROJECT_DIR$/src/TopologicalSort/AlienDictionary.java" />
+        <option value="$PROJECT_DIR$/src/ArrayAndString/StringCompression.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1730" />
-    <option name="y" value="58" />
+    <option name="x" value="48" />
+    <option name="y" value="23" />
     <option name="width" value="1391" />
     <option name="height" value="1006" />
   </component>
@@ -227,7 +225,7 @@
               <item name="Java_DataStructure_Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_DataStructure_Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="TopologicalSort" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayAndString" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -264,7 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AlienDictionary">
+  <component name="RunManager" selected="Application.StringCompression">
     <configuration name="AlienDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TopologicalSort.AlienDictionary" />
       <module name="Java_Leetcode" />
@@ -443,6 +441,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayAndString.StringCompression" />
+      <module name="Java_Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayAndString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ComparableAndComparator.Test" />
       <module name="Java_Leetcode" />
@@ -485,19 +496,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZumaGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFS.ZumaGame" />
-      <module name="Java_Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DFS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="numTilePossibilities" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="DFS.numTilePossibilities" />
       <module name="Java_Leetcode" />
@@ -531,19 +529,19 @@
       <item itemvalue="Application.DiffWaysToAddParaen" />
       <item itemvalue="Application.WallsAndGates" />
       <item itemvalue="Application.JavaBasics" />
-      <item itemvalue="Application.ZumaGame" />
       <item itemvalue="Application.PalindromePartitioningII" />
       <item itemvalue="Application.ContainsDuplicateIII" />
       <item itemvalue="Application.ClosestBinarySearchTreeValueII" />
       <item itemvalue="Application.AlienDictionary" />
+      <item itemvalue="Application.StringCompression" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringCompression" />
         <item itemvalue="Application.AlienDictionary" />
         <item itemvalue="Application.ClosestBinarySearchTreeValueII" />
         <item itemvalue="Application.ContainsDuplicateIII" />
         <item itemvalue="Application.PalindromePartitioningII" />
-        <item itemvalue="Application.ZumaGame" />
       </list>
     </recent_temporary>
   </component>
@@ -581,7 +579,7 @@
       <workItem from="1561925852424" duration="40779000" />
       <workItem from="1563168706119" duration="1952000" />
       <workItem from="1563205682503" duration="4056000" />
-      <workItem from="1563642456776" duration="3659000" />
+      <workItem from="1563642456776" duration="5501000" />
     </task>
     <task id="LOCAL-00001" summary="added ReverseWordIniString">
       <created>1558935293284</created>
@@ -594,10 +592,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160633000" />
+    <option name="totallyTimeSpent" value="162475000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1730" y="58" width="1391" height="1006" extended-state="0" />
+    <frame x="48" y="23" width="1391" height="1006" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21497406" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -608,7 +606,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32932165" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2655218" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26477024" />
       <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.36105034" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -616,7 +614,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32941177" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2921212" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.29102844" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32713348" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -912,10 +910,10 @@
           <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TopologicalSort/AlienDictionary.java</url>
-          <line>111</line>
+          <url>file://$PROJECT_DIR$/src/ArrayAndString/StringCompression.java</url>
+          <line>21</line>
           <properties />
-          <option name="timeStamp" value="81" />
+          <option name="timeStamp" value="83" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -937,13 +935,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Thread/MyThreadRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BFS/WallsAndGates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
@@ -1058,13 +1049,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="46" selection-start-line="46" selection-end-line="49" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -1346,11 +1330,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TopologicalSort/AlienDictionary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        <state relative-caret-position="490">
+          <caret line="109" column="30" lean-forward="true" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayAndString/StringCompression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
         </state>
       </provider>
     </entry>

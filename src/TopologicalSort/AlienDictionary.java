@@ -101,11 +101,12 @@ public class AlienDictionary {
     }
 
     public static void main(String[] args){
-        String[] input = {  "wrt",
-                "wrf",
-                "er",
-                "ett",
-                "rftt"};
-        String res = new AlienDictionary().alienOrder(input);
+//        String[] input = {  "wrt",
+//                "wrf",
+//                "er",
+//                "ett",
+//                "rftt"};
+//        String res = new AlienDictionary().alienOrder(input);
+        System.out.println('\0');
     }
 }
