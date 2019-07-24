@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f596b1-e45c-4411-95b2-6c5ad52f5c4c" name="Default Changelist" comment="added ReverseWordIniString">
-      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/Indices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design/AutoCompleteSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design/LRUCache.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Leetcode/ArrayAndString/StringCompression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Leetcode/ArrayAndString/StringCompression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayAndString/StringCompression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayAndString/StringCompression.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,7 +71,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArrayAndString/StringCompression.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
+            <state relative-caret-position="450">
               <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -84,10 +81,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ArrayAndString/Indices.java">
+        <entry file="file://$PROJECT_DIR$/src/Design/LRUCache.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="2" selection-end-column="28" />
+            <state relative-caret-position="250">
+              <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -150,8 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DFS/IsMatch.java" />
-        <option value="$PROJECT_DIR$/src/DFS/MinPathSum.java" />
         <option value="$PROJECT_DIR$/src/DFS/GarbageClean.java" />
         <option value="$PROJECT_DIR$/src/DFS/numTilePossibilities.java" />
         <option value="$PROJECT_DIR$/src/DFS/MaximumSubarray.java" />
@@ -201,12 +199,14 @@
         <option value="$PROJECT_DIR$/src/Design/AutoCompleteSystem.java" />
         <option value="$PROJECT_DIR$/src/ArrayAndString/StringCompression.java" />
         <option value="$PROJECT_DIR$/src/ArrayAndString/Indices.java" />
+        <option value="$PROJECT_DIR$/src/Design/LRU.java" />
+        <option value="$PROJECT_DIR$/src/Design/LRUCache.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1980" />
-    <option name="y" value="53" />
+    <option name="x" value="180" />
+    <option name="y" value="23" />
     <option name="width" value="1391" />
     <option name="height" value="1006" />
   </component>
@@ -233,7 +233,7 @@
               <item name="Java_DataStructure_Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_DataStructure_Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ArrayAndString" type="462c0819:PsiDirectoryNode" />
+              <item name="Design" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -270,7 +270,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestIndice">
+  <component name="RunManager" selected="Application.LRUCache">
     <configuration name="AlienDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TopologicalSort.AlienDictionary" />
       <module name="Java_Leetcode" />
@@ -314,19 +314,6 @@
     <configuration name="ComparableComparatorDemo" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ComparableAndComparator.demo" />
       <module name="Java_Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContainsDuplicateIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.ContainsDuplicateIII" />
-      <module name="Java_Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -376,6 +363,19 @@
     <configuration name="JavaBasics" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="JavaBasics.OuterClass" />
       <module name="Java_Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design.LRUCache" />
+      <module name="Java_Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Design.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -537,19 +537,19 @@
       <item itemvalue="Application.DiffWaysToAddParaen" />
       <item itemvalue="Application.WallsAndGates" />
       <item itemvalue="Application.JavaBasics" />
-      <item itemvalue="Application.ContainsDuplicateIII" />
       <item itemvalue="Application.ClosestBinarySearchTreeValueII" />
       <item itemvalue="Application.AlienDictionary" />
       <item itemvalue="Application.StringCompression" />
       <item itemvalue="Application.TestIndice" />
+      <item itemvalue="Application.LRUCache" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LRUCache" />
         <item itemvalue="Application.TestIndice" />
         <item itemvalue="Application.StringCompression" />
         <item itemvalue="Application.AlienDictionary" />
         <item itemvalue="Application.ClosestBinarySearchTreeValueII" />
-        <item itemvalue="Application.ContainsDuplicateIII" />
       </list>
     </recent_temporary>
   </component>
@@ -587,7 +587,7 @@
       <workItem from="1561925852424" duration="40779000" />
       <workItem from="1563168706119" duration="1952000" />
       <workItem from="1563205682503" duration="4056000" />
-      <workItem from="1563642456776" duration="19649000" />
+      <workItem from="1563642456776" duration="23339000" />
     </task>
     <task id="LOCAL-00001" summary="added ReverseWordIniString">
       <created>1558935293284</created>
@@ -600,10 +600,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176623000" />
+    <option name="totallyTimeSpent" value="180313000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1980" y="53" width="1391" height="1006" extended-state="0" />
+    <frame x="180" y="23" width="1391" height="1006" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21497406" />
@@ -616,7 +616,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32932165" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.26477024" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36105034" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.36105034" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -625,7 +625,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.29102844" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32713348" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32713348" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -918,6 +918,12 @@
           <properties />
           <option name="timeStamp" value="80" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Design/LRUCache.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -941,16 +947,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BFS/ShortestDistFromAllBuildings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BFS/PacificAtlanticWaterFlow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
@@ -1345,9 +1341,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayAndString/Indices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ArrayAndString/StringCompression.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
+        <state relative-caret-position="450">
           <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1355,10 +1358,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayAndString/Indices.java">
+    <entry file="file://$PROJECT_DIR$/src/Design/LRUCache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="2" selection-end-column="28" />
+        <state relative-caret-position="250">
+          <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
