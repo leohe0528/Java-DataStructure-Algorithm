@@ -35,6 +35,7 @@ public class LRUCache {
             node.next.prev = node.prev;
             node.prev.next = node.next;
         }
+
     }
 
     public int capacity, count;
@@ -56,6 +57,7 @@ public class LRUCache {
         }
         return -1;
     }
+
 
     public void put(int key, int value) {
         if (map.containsKey(key)){
